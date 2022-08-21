@@ -5,7 +5,6 @@
 ## Table of Contents 📑
 
 - [Description](#description)
-- [Application Preview](#application-preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Links](#links)
@@ -17,15 +16,10 @@
 
 Building the back end for an e-commerce website by modifying starter code.
 
-## Application Preview
-
 ## Installation
 
-- Copy the repository to your system
-- Create .env file
 - npm i
-- Load schema.sql via MySQL command line:
-  - source schema.sql
+- create .env
 - npm run seed
 - node server.js
 
@@ -46,10 +40,7 @@ Back End application using CRUD API routes with a MySQL database
 
 ## Questions
 
-Contact Me Below:
-
 - Email: Ianirwin18@gmail.com
-- Github Username: Ianirwin18
 - Github Link: https://github.com/Ianirwin18
 
 ## License
