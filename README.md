@@ -29,8 +29,7 @@ Back End application using CRUD API routes with a MySQL database
 
 ## Links
 
-- Github Repository:
-  - https://github.com/Ianirwin18/challenge13-E-Commerce
+- Github Repository: https://github.com/Ianirwin18/challenge13-E-Commerce
 
 ## Technologies
 
