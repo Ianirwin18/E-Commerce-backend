@@ -1,4 +1,4 @@
-# challenge13-E-
+# challenge13-E-Commerce
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,14 +18,14 @@ Building the back end for an e-commerce website by modifying starter code.
 
 ## Installation
 
-- npm i
 - create .env
+- npm i
 - npm run seed
 - node server.js
 
 ## Usage
 
-Back End application using CRUD API routes with a MySQL database
+Back End application using API routes with a MySQL database
 
 ## Links
 
